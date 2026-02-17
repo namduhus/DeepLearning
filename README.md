@@ -7,22 +7,22 @@
 - 학습/평가 루프를 공통화하여 모델 간 비교 가능하게 구성
 
 
-1. CNN 계열
+1. **CNN 계열**
 - VGG, GoogleNet, ResNet, DenseNet
 
 
-2. CNN 경량 계열
+2. **CNN 경량 계열**
 - MobileNet, ShuffleNet, SqueezeNet, EfficientNet-lite
 
 
-3. RNN 계열
+3. **RNN 계열**
 - RNN, LSTM, GRU, Seq2Seq
 
-4. RNN 경량 계열
+4. **RNN 경량 계열**
 - TinyLSTM, GRU-lite, Distilled Seq2Seq
 
-5. 생성/중간 계열
+5. **생성/중간 계열**
 - AutoEncoder, VAE, GAN, U-Net
 
-6. 최신 계열
+6. **최신 계열**
 - Transformer, ViT, BERT/GPT, Diffusion
